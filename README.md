@@ -11,6 +11,7 @@ human.
 | Item | Count |
 |---|---:|
 | Original dataset | ~3M tweets |
+| Apple Support cases | ~100K |
 | Cases initially selected | 8,000 |
 | Additional targeted cases | 2,000 |
 | Total working pool | 10,000 |
